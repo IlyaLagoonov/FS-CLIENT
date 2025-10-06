@@ -1,2 +1,1 @@
-# FS-CLIENT
-FS-CLIENT
+Клиентская часть 
